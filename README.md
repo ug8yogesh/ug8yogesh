@@ -5,7 +5,7 @@
 ---
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hey+there!+I'm+Yogesh+%F0%9F%91%8B;B.Tech+IT+%7C+MERN+Stack+Developer+%F0%9F%92%BB;AI+%2F+ML+Explorer+%F0%9F%A4%96;GSSoC+2026+Open+Source+Contributor+%F0%9F%8C%9F;Building+things+that+matter+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hey+there!+I'm+Yogesh+%F0%9F%91%8B;B.Tech+IT+%7C+Software+Developer+%F0%9F%92%BB;AI+%2F+ML+Explorer+%F0%9F%A4%96;GSSoC+2026+Open+Source+Contributor+%F0%9F%8C%9F;Building+things+that+matter+%F0%9F%94%A5)](https://git.io/typing-svg)
 
 <br/>
 
