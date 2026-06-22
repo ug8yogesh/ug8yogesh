@@ -11,9 +11,8 @@
 
 [![](https://visitcount.itsvg.in/api?id=ug8yogesh&icon=6&color=0)](https://visitcount.itsvg.in)
 &nbsp;&nbsp;
-![](https://img.shields.io/github/followers/ug8yogesh?style=social)
-&nbsp;&nbsp;
-![](https://img.shields.io/github/stars/ug8yogesh?style=social)
+
+
 
 </div>
 
