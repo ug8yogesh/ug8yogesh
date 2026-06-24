@@ -36,27 +36,6 @@
 
 ---
 
----
-
-## 🚀 What I Build
-
-### 🛒 Amazon Product Discount & Rating Analysis Dashboard
-> **Power BI · Python · Kaggle Dataset**  
-> An interactive dashboard that analyzes Amazon product data to uncover patterns in discounts, ratings, and customer reviews — built using a real-world Kaggle dataset and visualized with Microsoft Power BI.
-
----
-
-### 🏢 Automating Employee Data — ServiceNow
-> **ServiceNow · Workflow Automation**  
-> Streamlined employee record management by automating manual HR workflows on the ServiceNow platform — ensuring accurate, consistent, and up-to-date data handling across the organization.
-
----
-
-### 🎨 Sprit — Dashboard & Login UI
-> **HTML · CSS · JavaScript**  
-> A clean, responsive frontend project featuring a modern dashboard layout and polished login page design — focused on UI/UX best practices and smooth user interactions.
-
----
 
 ## 🛠️ Tech Stack & Skills
 
